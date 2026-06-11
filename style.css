@@ -26,11 +26,6 @@ body {
 
 #menu_btn {
     display: none;
-    border: none;
-    background-color: transparent;
-    color: rgb(55, 55, 55);
-    font-size: 24px;
-    cursor: pointer;
 }
 
 .seperate {
