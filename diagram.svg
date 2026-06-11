@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 800 600" height="600" width="800">
+  
+  <path fill="#1e3a8a" d="M250 120 L400 80 L550 120 L550 150 L250 150 Z"></path>
+  <path fill="#1e3a8a" d="M250 150 L400 170 L550 150"></path>
+  
+  <rect fill="#1e3a8a" height="15" width="40" y="75" x="380"></rect>
+  
+  <line stroke-width="12" stroke="#1e3a8a" y2="180" x2="580" y1="135" x1="550"></line>
+  <circle fill="#1e3a8a" r="12" cy="180" cx="580"></circle>
+
+  
+  <circle stroke-width="18" stroke="#1e3a8a" fill="#14b8a6" r="110" cy="280" cx="400"></circle>
+
+  
+  <circle fill="#14b8a6" r="18" cy="235" cx="355"></circle>
+  <circle fill="#14b8a6" r="18" cy="235" cx="445"></circle>
+  <circle fill="#14b8a6" r="18" cy="305" cx="355"></circle>
+  <circle fill="#14b8a6" r="18" cy="305" cx="445"></circle>
+  <circle fill="#14b8a6" r="18" cy="270" cx="400"></circle>
+  
+  <line stroke-width="14" stroke="#14b8a6" y2="270" x2="400" y1="235" x1="355"></line>
+  <line stroke-width="14" stroke="#14b8a6" y2="270" x2="400" y1="235" x1="445"></line>
+  <line stroke-width="14" stroke="#14b8a6" y2="270" x2="400" y1="305" x1="355"></line>
+  <line stroke-width="14" stroke="#14b8a6" y2="270" x2="400" y1="305" x1="445"></line>
+  <line stroke-width="14" stroke="#14b8a6" y2="305" x2="355" y1="235" x1="355"></line>
+  <line stroke-width="14" stroke="#14b8a6" y2="305" x2="445" y1="235" x1="445"></line>
+
+  
+  <path fill="#14b8a6" d="M220 380 Q300 460 400 380 Q500 460 580 380"></path>
+  <path fill="#0f766e" d="M220 380 Q300 340 400 380 Q500 340 580 380"></path>
+  
+  
+  <path stroke-width="8" stroke="#0f766e" d="M280 390 L520 390"></path>
+  <path stroke-width="8" stroke="#0f766e" d="M260 415 L540 415"></path>
+  <path stroke-width="8" stroke="#0f766e" d="M250 440 L550 440"></path>
+
+  
+  <text letter-spacing="-2" fill="#ffffff" font-weight="900" font-size="78" font-family="Arial Black, sans-serif" text-anchor="middle" y="520" x="400">EDURA AI</text>
+  <text letter-spacing="1" fill="#e2e8f0" font-size="28" font-family="Arial, sans-serif" text-anchor="middle" y="565" x="400">Soutien Scolaire Intelligent</text>
+</svg>
